@@ -9,7 +9,7 @@
 
 ### About myself:
 
-I used to work as a teacher of English, as an interpreter in the sphere of aircraft maintenance, an HR specialist. At the moment I don't work because I have to stay at home with a little kid. I have always been interested in programming, even at school where we learnt Turbo Pascal. However, I considered this sphere too complicated for me, but really interesting. I hope to learn more about web-development and Front-End in _RSSchool_.
+I used to work as a teacher of English, as an interpreter in the sphere of aircraft maintenance, an HR specialist. At the moment I give private lessons of English to kids and raise my little son. I have always been interested in programming, even at school where we were learning Turbo Pascal. However, I considered this sphere too complicated for me, but really interesting. I hope to learn more about web-development and Front-End in _RSSchool_.
 
 ### Work experience:
 
